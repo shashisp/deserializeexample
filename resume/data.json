@@ -1,0 +1,72 @@
+{
+    "personal_info": {
+        "address": "205, D'souza road devidas market",
+        "city": "California",
+        "contact_no": "99898555",
+        "email": "faisal.memon1991@gmail.com",
+        "profile_name": "Default",
+        "name": "John Bruce",
+        "pincode": "AMM455",
+        "pid": 1
+    },
+    "objective": {
+        "description": "To obtain job focusing in information technology.",
+        "profile_name": "Default",
+        "pid": 1
+    },
+    "education": [
+        {
+            "degree_name": "Bachelor of Technology",
+            "from_date": "2003",
+            "to_date": "2007",
+            "school_name": "College of North Atlantic - Portland, M.E.",
+            "pid": 1
+        },
+        {
+            "degree_name": "Higher School Certificate",
+            "from_date": "2001",
+            "to_date": "2003",
+            "school_name": "Kinge College -  Agusta",
+            "pid": 2
+        },
+        {
+            "degree_name": "Secondary School Certificate",
+            "from_date": "1991",
+            "to_date": "2001",
+            "school_name": "School of Boston - Boston, MA",
+            "pid": 3
+        }
+    ],
+    "skill": [
+        {
+            "skill_name": "Java",
+            "pid": 1
+        },
+        {
+            "skill_name": "C",
+            "pid": 2
+        },
+        {
+            "skill_name": "C++",
+            "pid": 3
+        },
+        {
+            "skill_name": "Oracle Database",
+            "pid": 4
+        }
+    ],
+    "achievement": [
+        {
+            "award_name": "Performer of the year",
+            "date": "2010",
+            "description": "Developed and handled a complicated inventory program for my company, Which saved the company time and money",
+            "pid": 1
+        },
+        {
+            "award_name": "Achiever of the month",
+            "date": "2011",
+            "description": "Developed and implemented client service program, which expanded small-to-medium client base 35%",
+            "pid": 2
+        }
+    ]
+}
